@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Private Limited - pollSCM Demo </h1>
+<h1 align="center">Welcome to Mithun Technologies Private Limited - git hub web-hook demo </h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
-	<h1 align="center"> we have Python Demo on Feb 23rd at 730 IST </h1>
+	<h1 align="center"> we have Python Demo on March at 6 AM TO 7.40 AM IST </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
