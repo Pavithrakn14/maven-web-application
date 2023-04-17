@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.126.212.255:9000/</sonar.host.url>
+		<sonar.host.url>http://3.109.186.136:9000//</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>MourishP</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.43.5:9980/mourish.pavithra/repository/hdfcbank-snapshot/</url>
+	      <url>http://43.205.96.123:9980/mourish.pavithra/repository/hdfcbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
